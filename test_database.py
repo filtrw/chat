@@ -1,4 +1,3 @@
-import pytest
 from database import create_new_room, create_message
 
 
